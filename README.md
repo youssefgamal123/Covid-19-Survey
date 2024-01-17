@@ -1,6 +1,5 @@
 # COVID-19 Survey Application
 
-![COVID-19 Survey](survey_image.png)
 
 ## Overview
 
@@ -39,6 +38,9 @@ Feel free to contribute to the project by leaving comments, suggesting improveme
 ## Feedback and Support
 
 If you encounter any issues, have suggestions, or simply want to provide feedback, please don't hesitate to reach out. Your input is crucial for the continual improvement of this survey application.
+
+
+
 ---
 
 Thank you for using the COVID-19 Survey Application. Together, we can contribute valuable data to better understand and combat the challenges posed by the ongoing pandemic. Stay safe, stay healthy!
